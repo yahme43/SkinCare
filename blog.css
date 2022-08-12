@@ -1,0 +1,21 @@
+.show{
+    border:1px solid rgb(54,11,95);
+}
+.king{
+    width: 75vw;
+    /* display: flex;
+    justify-content: center;
+    align-items: flex-start */
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.myClass{
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
